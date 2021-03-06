@@ -1,2 +1,4 @@
 # Movies-ETL
+
+## Mixing the Datasets
 In this challenge, I extracted data from various data sources such as Wikipedia and IMDB to extract as much information as possible about movies. With the challenge, I coded with Python and worked hand in hand with the Pandas library throughout the project. The main purpose of this exercise was to work on using ETL methods. Extracting, Transferring, and Loading data to be used. I looked for inconsistancies such as null values, incorrect data types, blantant errors in data entry, and much more. If the information was salvagable, I did everything I could to preserve it. In this module, I cleaned the data across the datasets and spliced the information that was important together. For example, I combined several of the characters from the movies description alongside the ratings data, that wasn't included previously. To finish off this project, I offloaded my findings onto SQL through pgAdmin.
